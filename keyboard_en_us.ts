@@ -1,4 +1,4 @@
-namespace Keyboard {
+namespace KeyboardInput {
     export let KB_EN_US: Layout = {
         keys: [],
         pressedHandler: null,

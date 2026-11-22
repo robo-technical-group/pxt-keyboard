@@ -1,5 +1,5 @@
 //% block="Keyboard" color=#8B4513 icon="\uf11c"
-namespace Keyboard {
+namespace KeyboardInput {
     export enum Modifiers {
         None       = 0,
         Shift      = 0b1,
