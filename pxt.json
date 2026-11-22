@@ -1,5 +1,5 @@
 {
-    "name": "keyboard",
+    "name": "KeyboardInput",
     "version": "2.0.0",
     "dependencies": {
         "device": "*",
