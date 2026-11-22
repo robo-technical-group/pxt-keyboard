@@ -1,13 +1,16 @@
 {
     "name": "keyboard",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "browser-events": "*"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "keyboard.ts",
+        "keyboard_en_us.ts"
     ],
     "testFiles": [
         "test.ts"
